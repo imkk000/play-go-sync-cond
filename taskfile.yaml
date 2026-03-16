@@ -1,0 +1,4 @@
+---
+version: 3
+tasks:
+  run: go run -race main.go
