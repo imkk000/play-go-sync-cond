@@ -2,3 +2,4 @@
 version: 3
 tasks:
   run: go run -race main.go
+  poll: go run client/main.go
